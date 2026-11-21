@@ -7,7 +7,7 @@
 | CIF | 22245958 |
 | Brand | Aqua Flow Construct |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-20 |
+| LastScraped | 2026-11-21 |
 
 ## Jobs (7)
 
@@ -58,4 +58,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-20T15:15:04Z_
+_Generated at 2026-11-21T14:29:59Z_
