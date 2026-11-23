@@ -7,9 +7,9 @@
 | CIF | 22245958 |
 | Brand | Aqua Flow Construct |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-22 |
+| LastScraped | 2026-11-23 |
 
-## Jobs (6)
+## Jobs (7)
 
 ### MUNCITOR NECALIFICAT LA DEMOLAREA CLADIRILOR, CAPTUSELI ZIDARIE, PLACI MOZAIC, FAIANTA, GRESIE, PARCHET
 
@@ -17,6 +17,12 @@
 - **Location**: TIHA BARGAULUI
 - **Work Mode**: on-site
 - **Tags**: constructii-instalatii, pclm, cu-norma-intreaga, cu-durata-nedeterminata, sediu, gimnazial-scoala-generala, experienta-putina-mai-putin-de-3-ani
+- **Status**: scraped
+
+### Muncitor Necalificat La Demolarea Cladirilor, Captuseli Zidarie, Placi Mozaic, Faianta, Gresie, Parchet
+
+- **URL**: [https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-sangeorz-bai-1733389.html](https://www.jobrapid.ro/locuri-de-munca/muncitor-necalificat-la-demolarea-cladirilor-captuseli-zidarie-placi-mozaic-faianta-gresie-parchet-in-sangeorz-bai-1733389.html)
+- **Location**: Sângeorz-Băi
 - **Status**: scraped
 
 ### MUNCITOR NECALIFICAT LA DEMOLAREA CLADIRILOR, CAPTUSELI ZIDARIE, PLACI MOZAIC, FAIANTA, GRESIE, PARCHET
@@ -52,4 +58,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-22T14:25:58Z_
+_Generated at 2026-11-23T17:51:47Z_
